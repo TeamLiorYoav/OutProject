@@ -9,7 +9,7 @@ public class UserInformation {
 
 	private String email;
 
-    	private int num;
+    private int number;
 	private String firstName;
 	private String lastName;
 	private String password;
